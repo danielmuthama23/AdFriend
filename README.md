@@ -1,2 +1,7 @@
-# AdFriend
-[AdFriend] is a Chrome extension that intercepts and replaces ad elements on web pages with customizable, positive content widgets. The extension transforms ad slots into interactive spaces that can display 
+# AdFriend - Chrome Extension
+
+## 🚀 Overview
+AdFriend replaces intrusive ads with **motivational quotes** and **activity reminders**.
+
+## 🛠️ Installation Guide
+1. Clone this repository:  
